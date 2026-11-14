@@ -14,3 +14,4 @@ To install Packet Tracer and learn its window, follow the [Packet Tracer Guide](
 ## Labs
 
 - [`packet-tracer-guide`](packet-tracer-guide): one 2911 router, one 2960 switch and two PCs, the network the Packet Tracer Guide builds.
+- [`1-1-how-data-moves`](1-1-how-data-moves): the network of [Lab 1: Capture a Conversation](https://www.yuval.guide/ccna/1-1-how-data-moves/capture-a-conversation/), the guide's network with a second switch, a web server and a DNS server.
